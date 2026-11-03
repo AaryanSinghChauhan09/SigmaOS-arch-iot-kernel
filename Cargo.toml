@@ -1,0 +1,9 @@
+[package]
+name = "arch-iot-kernel"
+version = "0.1.0"
+edition = "2021"
+description = "SigmaOS SigmaOS-arch-iot-kernel component - Inspired by Arch Linux and Debian"
+license = "MIT"
+repository = "https://github.com/AaryanSinghChauhan09/SigmaOS-arch-iot-kernel"
+
+[dependencies]
